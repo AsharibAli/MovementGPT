@@ -52,7 +52,7 @@ const MovementGPT = () => {
                     sendButtonColor: "#000000",
                   },
                   feedback: {
-                    color: "#4da2ff",
+                    color: "#000000",
                   },
                   footer: {
                     textColor: "#000000",

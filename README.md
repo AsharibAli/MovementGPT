@@ -70,11 +70,11 @@ I have built two versions of the MovementGPT, both have the same functionalities
 
 ### Live Hosted web app of MovementGPT
 
-➡️ [Full Version Web App](vercel.com) <br>
-➡️ [Popup Version Web App](vercel.com) <br>
+➡️ [Full Version Web App](https://movementgpt.vercel.app/) <br>
+➡️ [Popup Version Web App](https://movementgpt-popup.vercel.app/) <br>
 
 ➡️ **[Prompt used for Assistant Training](./prompt-engineering/prompt.md)** <br>
-➡️ **[Sui Move Code Data examples for Training](./data/sui-codebase/)** <br>
+➡️ **[Movement Books used for Assistant Training](./data/movement-books/)** <br>
 
 ## Future Improvements
 
