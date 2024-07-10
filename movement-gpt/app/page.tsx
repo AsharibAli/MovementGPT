@@ -50,6 +50,14 @@ const MovementGPT = () => {
                     backgroundColor: "#ffffff",
                     textColor: "#000000",
                     sendButtonColor: "#000000",
+                    maxChars: 500,
+                    maxCharsWarningMessage:
+                      "You exceeded the characters limit. Please input less than 500 characters.",
+                    autoFocus: true, // If not used, autofocus is disabled on mobile and enabled on desktop. true enables it on both, false disables it on both.
+                    sendMessageSound: true,
+                    // sendSoundLocation: "send_message.mp3", // If this is not used, the default sound effect will be played if sendSoundMessage is true.
+                    receiveMessageSound: true,
+                    // receiveSoundLocation: "receive_message.mp3", // If this is not used, the default sound effect will be played if receiveSoundMessage is true.
                   },
                   feedback: {
                     color: "#000000",
